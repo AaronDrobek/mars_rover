@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+  padding-top: 6vw;
+  height: 12vw;
+  background-image: url("../dark-triangles/dark-triangles.png");
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+.photo_box{
+  height: 100%;
+
+}
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.button{
+  color: black;
+  background-color: lightgrey;
+  margin-top: 4vw;
+  margin-right: 3vw;
+  width: 15vw;
+  height: 3vw;
+}
+.satImage{
+  width: 30vw;
+  height: 30vw;
+}
+.satImage{
+  margin: 1vw;
+}
+.form_div{
+  height: 5vw;
+  width: 100vw;
+}
+
+.headlines{
+  margin-top: 1vw;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  color: teal;
+  font-family: sans-serif;
+  font-size: 18pt;
+}
+.picture_box{
+  background-image: url("../stardust/stardust_@2X.png");
+  margin-top: 2vw;
+}
