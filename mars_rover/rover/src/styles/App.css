@@ -59,4 +59,5 @@
 .picture_box{
   background-image: url("../stardust/stardust_@2X.png");
   margin-top: 2vw;
+  min-height: 40vw;
 }
